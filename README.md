@@ -1,10 +1,10 @@
-Live URL:  https://aminbiography.github.io/python-automation-cti/
+Live URL:  https://aminbiography.github.io/Python-Automation-Core-Principles/
 
 ---                                               
           
 # Essential Python Concepts with Examples and Outputs
 
-## Python Basics             
+## Python Core Principles           
 ``` 
 print, input, variables, if-else, loops, functions, lists, dictionaries, import, try-except
 ```
@@ -2324,5 +2324,8 @@ You can type commands like `n` (next), `p x` (print x), and `c` (continue).
 
 ---
 
+#Python #PythonProgramming #PythonAutomation #PythonCoreConcepts #PythonBasics #PythonTutorial #LearnPython #PythonExamples #PythonForBeginners #PythonDevelopment #PythonScripting #PythonProjects #PythonFunctions #PythonOOP #ObjectOrientedProgramming #DataStructures #PythonLists #PythonDictionaries #ExceptionHandling #FileHandling #PythonModules #PythonLibraries #PythonPackages #PythonAPI #RESTAPI #JSON #SQLite #MySQL #Pandas #NumPy #SciPy #Matplotlib #Flask #Django #Asyncio #Multithreading #Multiprocessing #RegularExpressions #PythonTesting #Pytest #Unittest #Debugging #PythonSecurity #AutomationScripts #SoftwareDevelopment #ProgrammingFundamentals #CodingTutorial #OpenSource #GitHubRepository #DeveloperResources #TechLearning
+
+---
 
 
